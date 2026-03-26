@@ -1,0 +1,8 @@
+{
+  "model": "nomic-ai/nomic-embed-text-v1.5",
+  "dim": 768,
+  "count": 17122,
+  "created_at": "2026-02-12T17:40:29.800650+00:00",
+  "device": "cpu",
+  "batch_size": null
+}
